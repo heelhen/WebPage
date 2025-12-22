@@ -2,7 +2,7 @@
 
 Sims 4 pelin inspiroima portfolio-sivusto, joka on tehty käyttäen JavaScriptiä, HTML:ää ja CSS:ää. Tämä sivusto esittää taitojani käyttää muun muassa UI-elementtejä, ponnahdusikkunoita ja uudelleenkäytettäviä komponentteja.
 
-Löydät sen kansiosta: 
+Löydät sen kansiosta: <a href="https://github.com/heelhen/website/tree/main">https://github.com/heelhen/website/tree/main</a>
 
 <img width="1536" height="816" alt="Image" src="https://github.com/user-attachments/assets/407e7fb1-4d1b-453c-b0d0-25ef83840a7a" />
 <h2>Ominaisuudet</h2>
