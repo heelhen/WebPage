@@ -4,7 +4,9 @@ Sims 4 pelin inspiroima portfolio-sivusto, joka on tehty käyttäen JavaScripti�
 
 Löydät sen kansiosta: <a href="https://github.com/heelhen/website/tree/main">https://github.com/heelhen/website/tree/main</a>
 
-<img width="1536" height="816" alt="Image" src="https://github.com/user-attachments/assets/407e7fb1-4d1b-453c-b0d0-25ef83840a7a" />
+
+<img width="1536" height="816" alt="Screenshot of the website homepage" src="https://github.com/user-attachments/assets/407e7fb1-4d1b-453c-b0d0-25ef83840a7a" />
+
 <h2>Ominaisuudet</h2>
 
 - <b>Sims 4 tyylinen UI</b>
@@ -41,11 +43,12 @@ fetch("top-nav.html")
     document.getElementById("nav-container").innerHTML = html;
   });
 ```
+<img width="1920" height="1020" alt="Screenshot of Links page" src="https://github.com/user-attachments/assets/a10df17b-bc4a-4072-9404-1e3993ca1bf6" />
 
 <b>Ponnahdusikkunat</b>
 Ponnahdusikkunat ovat sisällytetty popups.html-tiedoston sisään ja niitä hallitaan yksittäisellä JavaScript tiedostolla
 
-<img width="1536" height="816" alt="Image" src="https://github.com/user-attachments/assets/c54836e3-a8b3-46ad-80f1-28d3a8da2408" />
+<img width="1536" height="816" alt="Screenshot of a popup of education information" src="https://github.com/user-attachments/assets/c54836e3-a8b3-46ad-80f1-28d3a8da2408" />
 
 <h2>Tyylin innoite</h2>
 Projektia inspiroi Sims 4-pelin UI, pelityylinen vuorovaikutussuunnittelu ja yksinkertainen sekä helppokäyttöinen käyttö.
