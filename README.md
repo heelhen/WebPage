@@ -4,8 +4,8 @@ Finnish version here: <a href="https://github.com/heelhen/websivu/blob/main/READ
 
 A portfolio site that is inspired by the Sims 4 game's style. It is made using JavaScript, HTML and CSS. This website, while still in progress, represents my skills in for example UI elements, popup windows and reusable components.
 
-You can find it in the following repository: <a href="https://github.com/heelhen/website/tree/main">https://github.com/heelhen/website/tree/main</a>
-
+You can find it in the following repository: <a href="https://github.com/heelhen/mysite.git">https://github.com/heelhen/mysite.git</a>
+Website at: <a href="https://heelhen.github.io/mysite/">https://heelhen.github.io/mysite/</a>
 
 <img width="1536" height="816" alt="Screenshot of the website homepage" src="https://github.com/user-attachments/assets/407e7fb1-4d1b-453c-b0d0-25ef83840a7a" />
 
